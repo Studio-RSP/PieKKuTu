@@ -611,7 +611,7 @@ function runCommand(cmd){
 				}
 				if(!c) notice(L['error_405']);
 			}else{
-				notice(L['myId'] + $data.id);
+				notice(L['myId'] + $data.id + " 입니다. 계정에 대한 문의를 할 때 꼭 필요한 번호이니 꼭 저장을 해주세요.");
 			}
 			break;
 		default:
@@ -2581,7 +2581,7 @@ function getAudio(k, url, cb){
 	function done(){
 		if(--$data._lsRemain == 0){
 			if(cb) cb();
-		}else loading(L['loadRemain'] + $data._lsRemain);
+		}else loading(L['loadRemain'] + $data._lsRemain + ")");
 	}
 	function AudioSound(url){
 		var my = this;
