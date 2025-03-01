@@ -48,5 +48,5 @@
 
 #### [라이선스]
 * 본 레포지토리 경로에 존재하는 파일 중 [JJoriping/KKuTu](https://github.com/JJoriping/KKuTu)에 포함되있는 파일은 [GNU 일반 공중 라이선스](https://github.com/Studio-RSP/PieKKuTu/blob/LICENSE)를 따릅니다.
-* 본 레포지토리 경로에 존재하는 파일 중 Studio Moremi및 Studio RSP가 자체 제작한 파일은 GNU 아페로 일반 공중 라이선스를 따릅니다.
+* 본 레포지토리 경로에 존재하는 파일 중 Studio Moremi 및 Studio RSP가 자체 제작한 파일은 GNU 아페로 일반 공중 라이선스를 따릅니다.
  * 일부 소스 코드 및 리소스는 다른 원작자를 가질 수 있습니다.
