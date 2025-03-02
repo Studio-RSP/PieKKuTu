@@ -14,6 +14,8 @@
  * 
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+그리고 본 파일은 셧다운제용 파일입니다. 기능을 키시려면 망할 셧다운제 주석을 제거 해주세요.
  */
 
 /* 망할 셧다운제
