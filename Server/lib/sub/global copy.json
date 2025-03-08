@@ -1,6 +1,7 @@
 {
 	"ADMIN": [ "Input admin id here" ],
 	"MAIN_PORTS": [ 8080 ],
+	"ROOM_PORTS": [ 8496 ],
 	"GAME_SERVER_HOST": "127.0.0.2",
 	"KKUTUHOT_PATH": "/kkutu/data/kkutuhot.json",
 	"PASS":"Your password for management Here",
@@ -14,6 +15,7 @@
 	"GOOGLE_RECAPTCHA_SITE_KEY": "Your Google Recaptcha site key Here",
 	"GOOGLE_RECAPTCHA_SECRET_KEY": "Your Google Recaptcha secret key Here",
 	"IS_SECURED": false,
+	"WAF": false,
 	"SSL_OPTIONS": {
 		"PRIVKEY": "Your SSL Private Key Here",
 		"CERT": "Your SSL Certificate Here",
