@@ -1,2 +1,2 @@
-This is an error log file of the game server.
-You may use like `tail -f KKUTU_ERROR.log` to watch this.
+본 파일은 끄투 서버 매니저에 오류가 났을 때 로그가 작성됩니다.
+로그를 확인하려면 `tail -f KKUTU_ERROR.log`를 터미널에 입력하세요.
